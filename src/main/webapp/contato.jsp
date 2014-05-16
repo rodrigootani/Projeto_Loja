@@ -24,6 +24,7 @@
 A Naaky Games esta Situada na Cidade de Santa Albertina-SP!<br/>
 
 Hoje é referência Mundial na venda de Consoles com os menores Preços do Mercado!
+Não deixe de nos visitar!
 </font>
 <div align="center"><font color="red">
 </p>
@@ -47,7 +48,7 @@ Cidade: Santa Albertina</p>
 
 
 <div>
-<div></div>
+
 <script src="js/jquery.js"></script>
 <script>
 $('h1').animate( {"margin-left" : "+=750"},10000 );
