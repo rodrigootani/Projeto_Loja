@@ -10,7 +10,7 @@
 			<div id="menu" align="center">
 		<ul>
 			<li><a href="index.jsp">Home</a></li>
-		<li><a href="carrinho.jsp">Carrrinho</a></li>
+		<li><a href="carrinho.jsp">Carrinho</a></li>
 		<li><a href="pedidos.jsp">Ver Pedidos</a></li>
 		<li><a href="fatura.jsp">Fatura</a></li>
 		<li><a href="login.jsp">Login</a></li>
@@ -26,7 +26,7 @@
 <div align="center" id="produtos">
 
 
-<p><font color="red">Voce n√£o tem nenhum Item adicionado ao seu Carrinho!</font></p>
+<p><font color="red">Voce n„o tem nenhum Item adicionado ao seu Carrinho!</font></p>
 <hr align="center" color="red" size="20">
 </hr>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>

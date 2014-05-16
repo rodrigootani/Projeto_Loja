@@ -20,7 +20,7 @@ top:300px;
 			<div id="menu" align="center">
 		<ul>
 	<li><a href="index.jsp">Home</a></li>
-		<li><a href="carrinho.jsp">Carrrinho</a></li>
+		<li><a href="carrinho.jsp">Carrinho</a></li>
 		<li><a href="pedidos.jsp">Ver Pedidos</a></li>
 		<li><a href="fatura.jsp">Fatura</a></li>
 		<li><a href="login.jsp">Login</a></li>
