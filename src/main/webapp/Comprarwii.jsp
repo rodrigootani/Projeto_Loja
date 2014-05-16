@@ -23,7 +23,7 @@ top:300px;
 		<li><a href="carrinho.jsp">Carrrinho</a></li>
 		<li><a href="pedidos.jsp">Ver Pedidos</a></li>
 		<li><a href="fatura.jsp">Fatura</a></li>
-		<li><a href="loguin.jsp">Loguin</a></li>
+		<li><a href="login.jsp">Login</a></li>
 		<li><a href="contato.jsp">Contato</a></li>
 		</ul>
 		</div>
