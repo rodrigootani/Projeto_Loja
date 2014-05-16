@@ -22,7 +22,7 @@
 		<input type="search" name="googlesearch"><input type="button" value="pesquisar">
 		</br></br>
 		</div>
-<title>Cadastro</title>
+		<title>Cadastro</title>
 
 
 
