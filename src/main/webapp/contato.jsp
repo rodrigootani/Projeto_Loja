@@ -23,16 +23,16 @@
 <p align="center"><font color="red">
 A Naaky Games esta Situada na Cidade de Santa Albertina-SP!<br/>
 
-Hoje Ã© referencia Mundial na venda de Consoles com os menores PreÃ§os do Mercado!
+Hoje é referência Mundial na venda de Consoles com os menores Preços do Mercado!
 </font>
 <div align="center"><font color="red">
 </p>
 <h3 color="red">
 <p>
 Cidade: Santa Albertina</p>
-<p>Estado: SÃ£o Paulo</p>
-<p>AV: Francisco Schimitd nÂº 1610</p>
-<p>Bairr: Centro</p>
+<p>Estado: São Paulo</p>
+<p>AV: Francisco Schimitd nº 1610</p>
+<p>Bairro: Centro</p>
 <p>Telefone: (17)3633 -1562</p>
 <p>Celuares:<(17)99785-6565
               (17)88956-5478
@@ -40,7 +40,7 @@ Cidade: Santa Albertina</p>
 
 <p>Facebook: Naakygames.facebook.com/naaky.facep456p33</p>
 <p>Skipe:NaakyGames.skp</p>
-<p>Twiter: Naakygamers.notwiiter.ndjjn</p>
+<p>Twiter: Naakygamers.notwitter.ndjjn</p>
 
 </h3></font></div>
 <body>
