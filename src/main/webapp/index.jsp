@@ -8,7 +8,8 @@
 <script src="jquery.js" type="text/javascript"></script>
 </head>
 
-<body>
+<body bgcolor="black">
+<div><h1>tudo preto</h1></div>
 
 	<div id="menu" align="center">
 		<ul>
