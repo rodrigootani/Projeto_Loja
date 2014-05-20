@@ -39,6 +39,7 @@ $('h1').animate( {"margin-left" : "+=750"},10000 );
 	
 
 		</script>
+		<div></div>
 </body>
 </html>
 
